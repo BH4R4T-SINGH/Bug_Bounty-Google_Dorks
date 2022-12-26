@@ -1,0 +1,73 @@
+"cms" bug bounty
+inurl /bug bounty
+white hat program
+inurl : / security
+inurl:security.txt
+"powered by synack"
+inurl"security report"
+inurl:security "reward"
+intext: we offer a bounty
+site:help.*.* inurl:bounty
+site responsible disclosure
+responsible disclosure:sites
+responsible disclosure europe
+intext responsible disclosure
+"submit vulnerability report"
+intext:bounty inurl:/security
+/trust/report-a-vulnerability
+intext:whitehat program reward
+site:responsibledisclosure.com
+intext:"bug bounty program" "@"
+site:security.*.* inurl: bounty
+inurl : /responsible disclosure
+inurl: private bugbountyprogram
+inurl:reporting-security-issues
+site:security.*.* inurl: bounty
+responsible disclosure inurl:in
+intext:"USDT" inurl:"Bug-Bounty"
+inurl:report-a-bug intext:reward
+inurl:responsible disclosure $50
+responsible disclosure white hat
+"vulnerability reporting policy"
+intext:report a bug intext:reward
+"security vulnerability" "report"
+inurl:/security ext:txt "contact"
+inurl:security-policy.txt ext:txt
+site:*.*.* inurl:bug inurl:bounty
+inurl:/security ext:txt "contact"
+responsible disclosure swag r=h:com
+responsible disclosure hall of fame
+"responsible disclosure" university
+inurl:responsible-disclosure-policy
+inurl:bug-bounty intext:cash rewards
+intext:responsible disclosure bounty
+site:security.*.com intext:bug bounty
+site:*.gov.* "responsible disclosure"
+vulnerability detection program reward
+inurl : / responsible-disclosure/ swag
+inurl:'/responsible disclosure' hoodie
+inurl : /responsible-disclosure/ reward
+inurl:security-program intext:bug bounty
+intext:"our bug bounty program" "reward"
+inurl : / responsible-disclosure/ bounty
+"powered by bugcrowd" -site:bugcrowd.com
+intext:"we take security very seriously"
+"If you find a security issue"  "reward"
+insite:"responsible disclosure" -inurl:nl
+inurl:/responsible-disclosure/ university
+inurl:bug bounty intext:token of gratitude
+intext:security report reward inurl:report
+inurl:vulnerability-disclosure intext:bounty
+inurl:bug bounty intext:token of appreciation
+inurl:'vulnerability-disclosure-policy' reward
+site:support.*.* intext:security report reward
+intext:security report monetary inurl:security 
+site:*.edu intext:security report vulnerability
+intext:Cryptocurrency Exchange intext:Bug bounty
+intext:you will receive a reward inurl:Bug bounty
+inurl:"bug bounty" and intext:"€" and inurl:/security
+inurl:"bug bounty" and intext:"$" and inurl:/security
+inurl:"bug bounty" and intext:"INR" and inurl:/security
+inurl: "responsible disclosure", "bug bounty", "bugbounty"
+"responsible disclosure" intext:"you may be eligible for monetary compensation"
+inurl:/security.txt "mailto*" -github.com  -wikipedia.org -portswigger.net -magento
